@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Title</key>
+		<string>Ariel</string>
+		<key>Author</key>
+		<string>André Maurois</string>
+		<key>YearPublished</key>
+		<integer>1935</integer>
+		<key>ISBN</key>
+		<string>0142002828</string>
+		<key>ImageFileName</key>
+		<string>Ariel.png</string>
+		<key>ThumbnailFileName</key>
+		<string>Ariel-Thumbnail.png</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>A Farewell to Arms</string>
+		<key>Author</key>
+		<string>Ernest Hermingway</string>
+		<key>YearPublished</key>
+		<integer>1935</integer>
+		<key>ISBN</key>
+		<string>014000002X</string>
+		<key>ImageFileName</key>
+		<string>A-Farewell-to-Arms.png</string>
+		<key>ThumbnailFileName</key>
+		<string>A-Farewell-to-Arms-Thumbnail.png</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Poet&apos;s Pub</string>
+		<key>Author</key>
+		<string>Eric Linklater</string>
+		<key>YearPublished</key>
+		<integer>1935</integer>
+		<key>ISBN</key>
+		<string>0140088962</string>
+		<key>ImageFileName</key>
+		<string>Poets-Pub.png</string>
+		<key>ThumbnailFileName</key>
+		<string>Poets-Pub-Thumbnail.png</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Madame Claire</string>
+		<key>Author</key>
+		<string>Susan Ertz</string>
+		<key>YearPublished</key>
+		<integer>1936</integer>
+		<key>ISBN</key>
+		<string>0140256377</string>
+		<key>ImageFileName</key>
+		<string>Madame-Claire.png</string>
+		<key>ThumbnailFileName</key>
+		<string>Madame-Claire-Thumbnail.png</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Bellona Club</string>
+		<key>Author</key>
+		<string>Dorothy L. Sayers</string>
+		<key>YearPublished</key>
+		<integer>1936</integer>
+		<key>ISBN</key>
+		<string>0140586083</string>
+		<key>ImageFileName</key>
+		<string>Bellona-Club.png</string>
+		<key>ThumbnailFileName</key>
+		<string>Bellona-Club-Thumbnail.png</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>The Mysterious Affair at Styles</string>
+		<key>Author</key>
+		<string>Agatha Christie</string>
+		<key>YearPublished</key>
+		<integer>1936</integer>
+		<key>ISBN</key>
+		<string>027593246X</string>
+		<key>ImageFileName</key>
+		<string>The-Mysterious-Affair-at-Styles.png</string>
+		<key>ThumbnailFileName</key>
+		<string>The-Mysterious-Affair-at-Styles-Thumbnail.png</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Twenty-Five</string>
+		<key>Author</key>
+		<string>Beverley Nichols</string>
+		<key>YearPublished</key>
+		<integer>1937</integer>
+		<key>ISBN</key>
+		<string>0091615003</string>
+		<key>ImageFileName</key>
+		<string>Twenty-Five.png</string>
+		<key>ThumbnailFileName</key>
+		<string>Twenty-Five-Thumbnail.png</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>William</string>
+		<key>Author</key>
+		<string>E. H. Young</string>
+		<key>YearPublished</key>
+		<integer>1937</integer>
+		<key>ISBN</key>
+		<string>0567427749</string>
+		<key>ImageFileName</key>
+		<string>William.png</string>
+		<key>ThumbnailFileName</key>
+		<string>William-Thumbnail.png</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Gone to Earth</string>
+		<key>Author</key>
+		<string>Mary Webb</string>
+		<key>YearPublished</key>
+		<integer>1937</integer>
+		<key>ISBN</key>
+		<string>0330335820</string>
+		<key>ImageFileName</key>
+		<string>Gone-to-Earth.png</string>
+		<key>ThumbnailFileName</key>
+		<string>Gone-to-Earth-Thumbnail.png</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Carnival</string>
+		<key>Author</key>
+		<string>Compton Mackenzie</string>
+		<key>YearPublished</key>
+		<integer>1938</integer>
+		<key>ISBN</key>
+		<string>0642322120</string>
+		<key>ImageFileName</key>
+		<string>Carnival.png</string>
+		<key>ThumbnailFileName</key>
+		<string>Carnival-Thumbnail.png</string>
+	</dict>
+</array>
+</plist>
