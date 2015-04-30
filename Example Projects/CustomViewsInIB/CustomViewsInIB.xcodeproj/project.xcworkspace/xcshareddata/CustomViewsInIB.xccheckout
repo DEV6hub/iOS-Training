@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1CE9373A-6E44-4A32-9B44-1D1EFB7158A9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CustomViewsInIB</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>79A2923CFF12CD4B0792EDE78A572B5FB0FDC549</key>
+		<string>https://github.com/NewTorontoGroup/iOS-Training.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Example Projects/CustomViewsInIB/CustomViewsInIB.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>79A2923CFF12CD4B0792EDE78A572B5FB0FDC549</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/NewTorontoGroup/iOS-Training.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>79A2923CFF12CD4B0792EDE78A572B5FB0FDC549</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>79A2923CFF12CD4B0792EDE78A572B5FB0FDC549</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOS-Training-Public</string>
+		</dict>
+	</array>
+</dict>
+</plist>
